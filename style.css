@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("kosmos0.gif");
+    background-image: url("gifstrona.gif");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -19,4 +19,5 @@ body
     text-align: center;
     color: yellow;
     font-weight: lighter;
+
 }
